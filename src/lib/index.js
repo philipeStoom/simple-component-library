@@ -1,5 +1,5 @@
-import TextInput from "./components/TextInput";
+import TextInputTest from "./components/TextInputTest";
 import Button from "./components/Button/button";
 
 export { Button }
-export { TextInput };
+export { TextInputTest };

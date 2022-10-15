@@ -1,7 +1,7 @@
 import React from "react";
-import "./TextInput.css";
+import "./TextInputTest.css";
 
-const TextInput = ({
+const TextInputTest = ({
   type = "text",
   label,
   placeholder,
@@ -22,4 +22,4 @@ const TextInput = ({
   </div>
 );
 
-export default TextInput;
+export default TextInputTest;
